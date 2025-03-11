@@ -2,8 +2,6 @@ IBM Customer Success Practices Playbook for Partners
 
 2025 v3.4
 
-<!-- image -->
-
 Customer Success Practices Playbook for Partners
 
 2025
@@ -81,7 +79,6 @@ Plan: Map client goals and strategies to IBM technology and sales plays.
 
 Progress: Propose a compelling reason to act, negotiate terms and prices, and close a sales opportunity.
 
-<!-- image -->
 
 Deliver: Deliver value on the client expectations identified in the planning phase.
 
@@ -97,9 +94,6 @@ IBM Customer Success Practices Playbook for Partners
 
 2025 v3.4
 
-<!-- image -->
-
-<!-- image -->
 
 ## Adoption Engagement Model
 
@@ -117,7 +111,7 @@ Confirm Value
 
 Expand
 
-<!-- image -->
+
 
 Validate value client has achieved with IBM Technology.
 
@@ -128,9 +122,6 @@ Validate value client has achieved with IBM Technology.
 
 Page 5 of 45 Internal and IBM Business Partner use only
 
-<!-- image -->
-
-<!-- image -->
 
 IBM Customer Success Practices Playbook for Partners
 
@@ -385,7 +376,7 @@ Software deployments led by CSMs are tracked through Growth Plans in Gainsight. 
 
 There are six stages of deployment. Within each stage there are various activities that you might perform to ensure successful deployment.
 
-<!-- image -->
+
 
 | Stage                                                                                                                                                                                                                                 | Description                                                                                                                                                                                                                                              | Stage Exit Criteria   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -502,11 +493,9 @@ Connect with an IBM CSM to identify the right resources for your specific needs.
 
 Build a demo of key use cases. Show your customer the art of the possible. Stand up an environment that is like theirs and personalize the demo to make a stronger impact.
 
-<!-- image -->
 
 Create a fantastic demo
 
-<!-- image -->
 
 IBM Demos
 
@@ -706,9 +695,6 @@ With your customer and, where assigned, the IBM CSM, jointly review the outcomes
 
 ## Be candid on lessons learned:
 
--
-
--
 
 - - What worked in their environment?
 - - What were the challenges?
