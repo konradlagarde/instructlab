@@ -1,0 +1,90 @@
+version: 3
+domain: customer_success_partner
+created_by: konradlagarde
+seed_examples:
+  - context: |
+     Customer Success Managers (CSMs) primarily engage in the Deliver phase of the IBM Client Engagement Model to ensure the client recognizes the value of IBM software. They are responsible for securing client use cases, planning the deployment and implementation, helping to guide users through adoption and product usage, confirming value and identifying opportunities to grow and expand
+    questions_and_answers:
+      - question: |
+          What is my role in helping clients get value from IBM software?
+        answer: |
+          As a CSM, you are responsible for ensuring the client successfully deploys the products. You can help them use the product by showing them key features and you can have Executive Business Reviews to make sure the client is aware of the impact the solution is having on their business and ensuring that any issues are addressed
+      - question: |
+          What are the agenda topics for an EBR?
+        answer: |
+          The agenda will vary by client, but they all should include time to discuss the following: -Celebrate past accomplishments. Highlight major milestones achieved and the team involved.
+          -Validate the present state. Focus the discussion on where we are and what we plan to accomplish in the near term.
+          -Discuss future objectives and direction. Items on this list should be at least 6-12 months away
+      - question: |
+          How can I help with the renewal process?
+        answer: |
+          If you have been helping your client get value from IBM software along the way, the renewal process should be straightforward. Be aware of when the renewal is due and make sure to share key insights with your renewal team. Make the renewal team aware of any potential roadblocks as well as opportunities to expand
+  - context: |
+      Customer Success Managers team with others to help clients successfully implement. They work with many members for their own organization as well members of the IBM team. The sales teams such as your account manager and the IBM ecosystem and brand sales are critical for insight into the client account and background about the client’s use case and strategic objectives. Technical teams such as Client Engineering, IBM CSMs, IBM Support, and IBM Technology Expert Labs are critical in demonstrating the technical value of a solution and supporting the implementation of that solution
+    questions_and_answers:
+      - question: |
+          Why would I work with IBM Technology Expert Labs?
+        answer: |
+          To augment the skills and expertise within your partner organization
+      - question: |
+          How do I access IBM Support?
+        answer: |
+          IBM Partners can engage IBM Support through a consolidated landing page on Partner Portal
+      - question: |
+          What is IBM Client Engineering?
+        answer: |
+          IBM Client Engineering (CE) provides a no-cost IBM multi-disciplinary team that will collaborate with you, an IBM partner, and with the customer to jointly innovate and rapidly prove solutions based on client business needs, leveraging IBM technologies. To request pre-sales assistance from IBM Client Engineering, you can work with your IBM Ecosystem sales team to submit a request
+  - context: |
+      Tools such as Gainsight provide CSMs with the ability to prioritize and manage their day to day activities as well as provide visibility to others about the client status
+    questions_and_answers:
+      - question: |
+          Which Growth Plan do I use in Gainsight?
+        answer: |
+          Use only the Partner Growth Plan
+      - question: |
+          I assigned myself as a Partner CSM but I don’t see it on my dashboard
+        answer: |
+          There is a lag of up to 24 hours after Partner CSM assignment before it will appear in reports on your home dashboard
+      - question: |
+          Where do I find a list of all my customers?
+        answer: |
+          On your home dashboard, view the All Relationships report.
+  - context: |
+      It is critical to have a deep understanding of the client before engaging. CSMs need to understand the client strategy, the client’s industry and key trends, the client’s competitive differentiation in their market, and how IBM software can help them achieve their objectives
+    questions_and_answers:
+      - question: |
+          Where do I go to learn about a client’s industry?
+        answer: |
+          Publicly available resources such as earnings reports, annual reports, news and press releases provide a wealth of information about clients. IBM Seismic also has resources to learn about specific industries
+      - question: |
+          When I meet a client sponsor for the first time, what are somethings I should be prepared with?
+        answer: |
+          Come prepared to describe your role and how you can help them. Share some inspiring success stories about how you have helped other clients, Finally, plan to discuss how you will engage together in the future.
+      - question: |
+          When I talk to a client about the relationship between IBM and my organization, what messages should I convey?
+        answer: |
+          Think about how you can demonstrate our combined experience in the customer’s industry and how we uniquely position to deliver the solution.
+  - context: |
+      CSMs progress deployments through stages to provide a clear roadmap for a deployment project and demonstrate progress along the way. The stages begin with Identify when the CSM has understood the client’s business challenges and has identified an IBM software solution that will address this need. The remaining stages represent the steps involved to gain sponsorship, plan for and deliver a final solution
+    questions_and_answers:
+      - question: |
+          If the client is already committed to implement a particular solution and has secured the resources and timing, but has not yet started the work, what stage do I use?
+        answer: |
+          The stage is Deploying
+      - question: |
+          What is the correct stage if the client has decided not to implement a solution?
+        answer: |
+          The stage is No plans to deploy.
+      - question: |
+          What steps do I follow if the client does not have an identified use case?
+        answer: |
+          1. Review existing uses from other clients.
+          2. Consider what you know about the client and what is applicable to their business to narrow down the technology focus.
+          3. Schedule a use case workshop to explore ideas and prioritize the potential use cases.
+document_outline: |
+  IBM Customer Success Partner Playbook
+document:
+  repo: https://github.com/konradlagarde/instructlab
+  commit: 4a9d2f2654a1fe3346db44ccba8edbfef899a77a
+  patterns:
+    - Partner Customer Success Playbook v3.4 20250304.pdf
